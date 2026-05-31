@@ -1,6 +1,6 @@
 {
   "meta": {
-    "total_preguntas": 1210,
+    "total_preguntas": 1213,
     "pendientes_revision": 195,
     "total_archivos": 13,
     "generado": "2026-05-31T13:04:31",
@@ -4846,7 +4846,8 @@
       "pagina": 8,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 65 años que inició hace 1 semana con cefalea, orina espumosa con tinte hemático intermitente y edema de pies, por lo que acudió a su clínica donde reportan TA 150/95 FC 90/min, FR 18/min Temp 36.5, el EGO reportó orina tinte hemático, dens 1.010, pH 5,5, proteínas 100 mg/dL, eritrocitos moderados, cilindros eritrocitarios +, leucocitos 20-30 por campo, células epiteliales tubulares presentes, egresado con manejo para infección de vías urinarias. El paciente acudió a urgencias 1 semana después por hematuria persistente y aumento del edema hasta rodillas la TA fue 150/90 se tomaron laboratorios: Hb 11.5gr/dL Hto 35% leucocitos 9000, plaquetas 300000, BUN 12, Cr 1.1. Urea 32, glucosa 80. EGO orina con sangre ++ , eritrocitos incontables, proteínas 300 mg/dL, leucocitos 50 por campo. La cuantificación de proteínas en orina fue de 1200 mg en 24 hr y la albúmina sérica de 3.2gr. Durante su estancia hospitalaria se le realizó biopsia renal que reporta: engrosamiento global y difuso de la pared de los capilares glomerulares, e inmunofluorescencia con depósitos granulares difusos de IgG y C3."
     },
     {
       "pregunta": "¿Cuál es el valor de corte de Hemoglobina para poliglobulia en un paciente masculino?",
@@ -5744,7 +5745,8 @@
       "pagina": 25,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "Forma clínica de pericarditis en la que existe engrosamiento homogéneo del pericardio con alteraciones del llenado de todas las cámaras cardíacas:",
@@ -5763,7 +5765,8 @@
       "pagina": 25,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "¿A partir de qué recuento plaquetario se recomienda la transfusión de plaquetas previo al término del embarazo?",
@@ -5782,7 +5785,8 @@
       "pagina": 25,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "¿Cuál es el hallazgo característico durante la exploración física en la pericarditis aguda?",
@@ -5801,7 +5805,8 @@
       "pagina": 25,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "¿cuáles presenta el paciente?",
@@ -6733,7 +6738,8 @@
       "pagina": 45,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "4. Estatus epileptico convulsivo\nY debido a que no tuvo respuesta con la benzodiacepina administrada y su impresión diagnóstica actual, usted decide administrar la segunda línea de tratamiento. ¿Cuáles medicamentos corresponden a esta opción?",
@@ -6752,7 +6758,8 @@
       "pagina": 46,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "Durante su hospitalización que medicamento no se deben administrar por ser precursor de delirium",
@@ -6771,7 +6778,8 @@
       "pagina": 46,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "El paciente continúa presentando crisis convulsivas a pesar del tratamiento óptimo, por lo cual usted lo clasifica como:",
@@ -9888,7 +9896,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "En un hospital rural se realizó un estudio titulado: “Impacto de la lactancia materna exclusiva versus lactancia mixta en el peso y la talla durante el primer año de vida de niñas y niños en una zona rural de norte de México en 2022” ¿Qué prueba aplicaría para demostrar diferencias estadísticas del peso y la talla de niñas y niños?",
@@ -9907,7 +9916,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Observa en sus resultados que existe mayor peso y talla en aquellos niños y niñas con lactancia materna exclusiva versus lactancia mixta, lo cual ratifica lo visto en su marco teórico sobre el tema. Mencione el Criterio de Bradford – Hill que identifica:",
@@ -9926,7 +9936,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Cuál es el título que propone para realizar el estudio? Cumpliendo con las características de un título.",
@@ -9945,7 +9956,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "En el HGZ/UMF No.1 del Estado de México, existe un aumento en el número de defunciones con diagnóstico de tromboembolia pulmonar en hombres y mujeres de 20 años y más durante los años 2022 y 202, sin embargo, desconoce el número de casos, por lo cual el personal a cargo de la Unidad de Investigación decide realizar un estudio.\n\n¿Qué tipo de diseño de estudio epidemiológico elegiría para conocer el número de casos durante los años mencionados?",
@@ -9964,7 +9976,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "En relación con la cronología de los hechos ¿qué tipo de estudio elegiría?",
@@ -9983,7 +9996,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "¿Cuál es la variable de interés?",
@@ -10002,7 +10016,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Dentro de la metodología para el presente estudio usted realiza una hipótesis, en este contexto, ¿a que se refiere el error tipo I?",
@@ -13280,7 +13295,8 @@
       "pagina": 27,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "4. La estadística inferencial corresponde a las técnicas:",
@@ -13299,7 +13315,8 @@
       "pagina": 27,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "El método científico emplea diferentes técnicas de investigación, en este sentido responde los siguientes planteamientos:\n1. Son procesos mentales y reglas lógicas que hacen posible las operaciones racionales, de abstracción, generalización, análisis, síntesis, clasificación, comparación y regla lógico-formales y lógico-dialécticas necesarias para la investigación científica:",
@@ -13318,7 +13335,8 @@
       "pagina": 27,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "¿Qué tema se trata en el artículo 65 de este reglamento?",
@@ -13337,7 +13355,8 @@
       "pagina": 27,
       "confidence": 0.9,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "En relación a la carta de consentimiento informado de los protocolos de investigación que se realizan en el IMSS: ¿Cuáles son todas las modalidades de cartas de consentimiento informado de que se dispone para incluir en los protocolos de investigación del IMSS de acuerdo al grupo etario al que va dirigida la investigación?",
@@ -13356,7 +13375,8 @@
       "pagina": 28,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "Respecto a los instrumentos de investigación: Las listas de cotejo corresponden a las técnicas de investigación de tipo:",
@@ -13375,7 +13395,8 @@
       "pagina": 28,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "Respecto a los instrumentos de investigación: Las escalas de Likert corresponden a las técnicas de investigación de tipo:",
@@ -13394,7 +13415,8 @@
       "pagina": 28,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "Sirven para construir los instrumentos de investigación, para la observación y control de variables dependientes e independientes extrañas",
@@ -13413,7 +13435,8 @@
       "pagina": 28,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "Es el elemento que orienta la investigación, es decir delimita en la ruta que el investigador debe seguir en el descubrimiento de la solución del problema:",
@@ -13799,7 +13822,8 @@
       "pagina": 41,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 65 años, fumador activo de 26 paquetes año, etilismo activo 40 gramos de alcohol diario, diabetes mellitus 2 en tratamiento con metformina e insulina. Es llevado a valoración por presentar desde hace 4 días cefalea y fiebre de hasta 40° C, agravada el día de hoy con somnolencia. A la exploración con ECG de 13, se encuentra rigidez de cuello, usted sospecha de meningitis.\nEn cuanto a la punción lumbar de este paciente:"
     },
     {
       "pregunta": "¿Cómo clasifica el VIH de este paciente?",
@@ -14374,7 +14398,8 @@
       "pagina": 51,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso seriado 15\nFemenino de 62 años, hipertensa y diabética tipo 2 en tratamiento con clortalidona y metformina, el cual suspende por malestar generalizado. Llega en ambulancia a urgencias por alteraciones en su estado de conciencia. Inició tres días previos con fatiga y dolor en el flanco derecho, se agregó náuseas, vómito y reducción de la ingesta oral. Su familiar refiere que se acostó temprano la noche anterior y que no podía despertar por la mañana. EF: 60/40 mmHg, FC 130 lpm, FR 36 rpm, T 39.7° C, Sat O2 89% con aire ambiente. Peso corporal 64 kg. Respuesta mínima al dolor. Uresis mínima y orina se observa espera y turbia. Lab: sodio 148 mEq/L, potasio 5.2 mEq/L, cloro 118 mEq/L, bicarbonato 10 mEq/L, BUN 68 mg/dl, Cre 3.6 mg/dl, glucosa 532 mg/dl, pH 6.9, PCO2 36, PO2 59, Hb 9.4, HCT 28.5%, leucocitos 16 700 cel/mm3, TP 15.4 seg, TPT 40.2 seg\n\nEn los hemocultivos se desarrollan bacilos gramnegativos a las seis horas,"
     },
     {
       "pregunta": "¿Qué estudio debe realizar para determinar si la infección de este paciente es aguda o crónica?:\nrecuento total de glóbulos blancos de 1100 células/mm3, diferencial de 10% de neutrófilos, 16% de formas en banda, 70% de linfocitos y 4% de monocitos, recuento absoluto de neutrófilos de 286/mm3. La radiografía de tórax y el análisis de orina normales.\n1. ¿Qué estudios complementarios realizaría?",
@@ -20807,7 +20832,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "Es uno de los factores que condicionan lesión cerebral secundaria",
@@ -20827,7 +20852,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "conocidas. EF: 140/88 mmHg, FC 92 lpm, FR 17 rpm, normotérmico, saturación 94%; destaca hematoma periorbitario derecho, así como hemorragia ótica ipsilateral no activa. Resto normal; Glasgow 15, visión normal, fondoscopia no presenta alteraciones.\n¿Cuál es la sospecha diagnóstica en este paciente?",
@@ -20847,7 +20872,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "¿Cuál es el dato temprano de empeoramiento del cuadro clínico del paciente?",
@@ -20867,7 +20892,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "¿Cuál es el estudio complementario que se debe solicitar en este caso?",
@@ -20887,7 +20912,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "¿Cuál es la siguiente acción en relación a este paciente?",
@@ -20907,7 +20932,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "¿Qué hallazgos se espera encontrar en dicho estudio?",
@@ -20927,7 +20952,7 @@
       "confidence": 1.0,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 62 años, con antecedentes de hipertensión y diabetes. Acude a urgencias debido a parálisis del lado izquierdo de la cara y hemiparesia izquierda. No está seguro del tiempo transcurrido desde el inicio de sus síntomas. Su esposa observó que cuatro horas antes de llegar al hospital se encontraba normal, pero no lo volvió a ver hasta 20 minutos previos a ingreso que notó estos datos clínicos. EF: TA 152/74 mmHg y saturaciones de oxígeno del 98%. Tiene hemiparesia faciocorporal lado izquierdo, sin alteraciones en la sensibilidad, la biometría y factores de coagulación son normales.\n1."
     },
     {
       "pregunta": "Ante los hallazgos mencionados, ¿cuál sería su sospecha diagnóstico?",
@@ -20947,47 +20972,107 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
-      "pregunta": "puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen: (Imágenes de resonancia magnética de cráneo adjuntas). ¿Cuál es la opción terapéutica más apropiada en este paciente?",
+      "pregunta": "¿Cuál de los siguientes es el diagnóstico más adecuado para este paciente?",
+      "opciones": {
+        "A": "Demencia vascular",
+        "B": "Demencia tipo Alzheimer",
+        "C": "Enfermedad de Parkinson",
+        "D": "Síndrome de Hakim-Adams"
+      },
+      "respuesta_correcta": [
+        "D"
+      ],
+      "tipo": "multiple_choice",
+      "justificacion": "",
+      "fuente": "Examen porque me quiero largar de MI.docx",
+      "pagina": 166,
+      "confidence": 0.95,
+      "incomplete": false,
+      "verified": true,
+      "caso_clinico": "Hombre de 84 años, evaluado por alteraciones en la marcha de 5 años de evolución y desde hace 2 años deterioro neurocognitivo e incontinencia urinaria. Hace 12 años, el paciente sufrió de un trauma craneoencefálico cerrado que se asoció a hemorragia subaracnoidea post-traumática y pérdida de la conciencia por 5 horas. Su tratamiento incluye zolpidem como auxiliar para el insomnio y un multivitamínico. EF: T 36.2° C, TA 128/78 mmHg, FC 76 lpm, FR 14 rpm, IMC 27 kg/m2. La marcha del paciente es lenta e inestable con pasos cortos (atáxica). Su nivel de alerta, lenguaje, postura, braceo, tono muscular son normales, no tiene temblor. Su puntuación en el minimental de Folstein es de 24/30, con un punto menos en el segmento de orientación al no poder dar la fecha del día, tres puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen:"
+    },
+    {
+      "pregunta": "¿Cuál es el pronóstico de este paciente después de recibir tratamiento?",
+      "opciones": {
+        "A": "Malo para la vida sin cambios en la función",
+        "B": "Malo para la vida y malo para la función",
+        "C": "Bueno para la vida, malo para la función",
+        "D": "Bueno para la vida y bueno para la función"
+      },
+      "respuesta_correcta": [
+        "D"
+      ],
+      "tipo": "multiple_choice",
+      "justificacion": "",
+      "fuente": "Examen porque me quiero largar de MI.docx",
+      "pagina": 166,
+      "confidence": 0.95,
+      "incomplete": false,
+      "verified": true,
+      "caso_clinico": "Hombre de 84 años, evaluado por alteraciones en la marcha de 5 años de evolución y desde hace 2 años deterioro neurocognitivo e incontinencia urinaria. Hace 12 años, el paciente sufrió de un trauma craneoencefálico cerrado que se asoció a hemorragia subaracnoidea post-traumática y pérdida de la conciencia por 5 horas. Su tratamiento incluye zolpidem como auxiliar para el insomnio y un multivitamínico. EF: T 36.2° C, TA 128/78 mmHg, FC 76 lpm, FR 14 rpm, IMC 27 kg/m2. La marcha del paciente es lenta e inestable con pasos cortos (atáxica). Su nivel de alerta, lenguaje, postura, braceo, tono muscular son normales, no tiene temblor. Su puntuación en el minimental de Folstein es de 24/30, con un punto menos en el segmento de orientación al no poder dar la fecha del día, tres puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen:"
+    },
+    {
+      "pregunta": "¿Cuál es la opción terapéutica más apropiada en este paciente?",
       "opciones": {
         "A": "Memantina 20 mg/día",
         "B": "Control metabólico óptimo",
         "C": "Levodopa/carbidopa a dosis bajas",
         "D": "Derivación ventrículo-peritoneal"
       },
-      "tipo": "multiple_choice",
       "respuesta_correcta": [
         "D"
       ],
+      "tipo": "multiple_choice",
       "justificacion": "",
       "fuente": "Examen porque me quiero largar de MI.docx",
       "pagina": 166,
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 84 años, evaluado por alteraciones en la marcha de 5 años de evolución y desde hace 2 años deterioro neurocognitivo e incontinencia urinaria. Hace 12 años, el paciente sufrió de un trauma craneoencefálico cerrado que se asoció a hemorragia subaracnoidea post-traumática y pérdida de la conciencia por 5 horas. Su tratamiento incluye zolpidem como auxiliar para el insomnio y un multivitamínico. EF: T 36.2° C, TA 128/78 mmHg, FC 76 lpm, FR 14 rpm, IMC 27 kg/m2. La marcha del paciente es lenta e inestable con pasos cortos (atáxica). Su nivel de alerta, lenguaje, postura, braceo, tono muscular son normales, no tiene temblor. Su puntuación en el minimental de Folstein es de 24/30, con un punto menos en el segmento de orientación al no poder dar la fecha del día, tres puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen:"
     },
     {
-      "pregunta": "puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen: (Imágenes de resonancia magnética de cráneo adjuntas). ¿Cuál sería el mecanismo que originó el padecimiento?",
+      "pregunta": "¿Cuál sería el mecanismo que originó el padecimiento?",
       "opciones": {
         "A": "Lesión neuronal ex vacuo",
         "B": "Microinfartos cerebrales",
         "C": "Pérdida de la sustancia negra",
         "D": "Acumulación de amiloide"
       },
-      "tipo": "multiple_choice",
       "respuesta_correcta": [
         "A"
       ],
+      "tipo": "multiple_choice",
       "justificacion": "",
       "fuente": "Examen porque me quiero largar de MI.docx",
       "pagina": 166,
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": "Hombre de 84 años, evaluado por alteraciones en la marcha de 5 años de evolución y desde hace 2 años deterioro neurocognitivo e incontinencia urinaria. Hace 12 años, el paciente sufrió de un trauma craneoencefálico cerrado que se asoció a hemorragia subaracnoidea post-traumática y pérdida de la conciencia por 5 horas. Su tratamiento incluye zolpidem como auxiliar para el insomnio y un multivitamínico. EF: T 36.2° C, TA 128/78 mmHg, FC 76 lpm, FR 14 rpm, IMC 27 kg/m2. La marcha del paciente es lenta e inestable con pasos cortos (atáxica). Su nivel de alerta, lenguaje, postura, braceo, tono muscular son normales, no tiene temblor. Su puntuación en el minimental de Folstein es de 24/30, con un punto menos en el segmento de orientación al no poder dar la fecha del día, tres puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen:"
+    },
+    {
+      "pregunta": "¿Qué datos clínicos fundamentan el diagnóstico?",
+      "opciones": {
+        "A": "Género, frecuencia y la puntuación en el minimental",
+        "B": "La ataxia y la imagen tomográfica",
+        "C": "Ataxia, incontinencia y la puntuación en el minimental",
+        "D": "El antecedente de trauma encefálico, la ataxia y la puntuación en el minimental"
+      },
+      "respuesta_correcta": [
+        "C"
+      ],
+      "tipo": "multiple_choice",
+      "justificacion": "",
+      "fuente": "Examen porque me quiero largar de MI.docx",
+      "pagina": 166,
+      "confidence": 0.95,
+      "incomplete": false,
+      "verified": true,
+      "caso_clinico": "Hombre de 84 años, evaluado por alteraciones en la marcha de 5 años de evolución y desde hace 2 años deterioro neurocognitivo e incontinencia urinaria. Hace 12 años, el paciente sufrió de un trauma craneoencefálico cerrado que se asoció a hemorragia subaracnoidea post-traumática y pérdida de la conciencia por 5 horas. Su tratamiento incluye zolpidem como auxiliar para el insomnio y un multivitamínico. EF: T 36.2° C, TA 128/78 mmHg, FC 76 lpm, FR 14 rpm, IMC 27 kg/m2. La marcha del paciente es lenta e inestable con pasos cortos (atáxica). Su nivel de alerta, lenguaje, postura, braceo, tono muscular son normales, no tiene temblor. Su puntuación en el minimental de Folstein es de 24/30, con un punto menos en el segmento de orientación al no poder dar la fecha del día, tres puntos menos en los cálculos seriados y dos puntos menor en el área de nominación. Sus resultados de citometría hemática, química sanguínea, electrolitos séricos, vitamina B12 en sangre, pruebas de función tiroidea, VDRL y urianálisis son normales. Su resonancia magnética de cráneo muestra la siguiente imagen:"
     },
     {
       "pregunta": "\nEsta es su tomografía de la paciente, con base a la gravedad de la escala NIHSS y esta imagen, el tratamiento inicial de elección es:",
@@ -21007,7 +21092,7 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
       "pregunta": "Tomando en cuenta los factores de riesgo de la paciente, la causa principal de evento vascular cerebral es:",
@@ -21026,7 +21111,7 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
       "pregunta": "¿Qué arteria está involucrada en este caso?",
@@ -21046,7 +21131,7 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
       "pregunta": "El patrón que se espera encontrar en los estudios neurofisiológicos:",
@@ -21066,7 +21151,7 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
       "pregunta": "Un factor desencadenante para la crisis que debe investigar es:",
@@ -21086,7 +21171,7 @@
       "confidence": 0.95,
       "incomplete": false,
       "verified": true,
-      "caso_clinico": "Pregunta anterior no visible, solo se muestran las opciones.\nCaso seriado 6\nHombre de 78 años con antecedente de Parkinson y deterioro cognitivo, familiar refiere que ha tenido caídas frecuentes, marcha inestable e incontinencia urinaria. La familia nota intención y respuesta lenta al hablar, con evolución paulatina al empeoramiento, por lo que se lleva a neurocirujano quien detecta en resonancia magnética ventrículos más grandes de lo normal debido a la acumulación de LCR."
+      "caso_clinico": ""
     },
     {
       "pregunta": "Una complicación que se debe vigilar una vez que se inició el manejo para la paciente es:",
@@ -21805,7 +21890,8 @@
       "pagina": 10,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Femenino de 26 años con antecedente de hipotiroidismo en tratamiento con levotiroxina 100mcg al día, es enviada a consulta externa por este antecedente y encontrarse en sus primeras 5 semanas de gestación.\nCual es la acción en cuanto el tratamiento con levotiroxina en este paciente"
     },
     {
       "pregunta": "¿Cuáles son las causas de Poliglobulia secundaria?\n¿Qué es la poli cite mía verá?",
@@ -21824,7 +21910,8 @@
       "pagina": 10,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Femenino de 26 años con antecedente de hipotiroidismo en tratamiento con levotiroxina 100mcg al día, es enviada a consulta externa por este antecedente y encontrarse en sus primeras 5 semanas de gestación.\nCual es la acción en cuanto el tratamiento con levotiroxina en este paciente"
     },
     {
       "pregunta": "34.- ¿De qué forma podemos estrechar el intervalo\n-son requisitos de la estructura de un resumen del protocolo de investigación.",
@@ -22036,7 +22123,8 @@
       "pagina": 19,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "58.- Femenino de 35 años con historia de trombosis venosa posterior a una cirugía de rodilla por causa traumática hace 8 años, uso de mesalazina por enfermedad inflamatoria intestinal y uso crónico de anticonceptivos orales a base de estrógenos y progestágeno. Acude a urgencias por disnea súbita y dolor torácico, refiere desde hace una semana ha presentado dolor y aumento de volumen en pierna derecha. A su ingreso con TA 80/50, FR 34, FC 128, Temp 35.7, saturación de oxígeno de 79% al aire ambiente. Usted sospecha de TEP."
     },
     {
       "pregunta": "Las variables que no se distribuyen normalmente contrastan la significación a través de una medida de tendencia central que no es la media poblacional. ¿Qué prueba ordena todos los resultados individuales de la muestra y luego los compara con la suma de los rangos (posiciones) entre los grupos?",
@@ -22055,7 +22143,8 @@
       "pagina": 19,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "58.- Femenino de 35 años con historia de trombosis venosa posterior a una cirugía de rodilla por causa traumática hace 8 años, uso de mesalazina por enfermedad inflamatoria intestinal y uso crónico de anticonceptivos orales a base de estrógenos y progestágeno. Acude a urgencias por disnea súbita y dolor torácico, refiere desde hace una semana ha presentado dolor y aumento de volumen en pierna derecha. A su ingreso con TA 80/50, FR 34, FC 128, Temp 35.7, saturación de oxígeno de 79% al aire ambiente. Usted sospecha de TEP."
     },
     {
       "pregunta": "Y debido a que no tuvo respuesta con la benzodiacepina administrada y su impresión diagnostica actual, usted decide administrar la segunda línea de tratamiento ¿Cuáles medicamentos corresponden a esta opción?",
@@ -22074,7 +22163,8 @@
       "pagina": 20,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "58.- Femenino de 35 años con historia de trombosis venosa posterior a una cirugía de rodilla por causa traumática hace 8 años, uso de mesalazina por enfermedad inflamatoria intestinal y uso crónico de anticonceptivos orales a base de estrógenos y progestágeno. Acude a urgencias por disnea súbita y dolor torácico, refiere desde hace una semana ha presentado dolor y aumento de volumen en pierna derecha. A su ingreso con TA 80/50, FR 34, FC 128, Temp 35.7, saturación de oxígeno de 79% al aire ambiente. Usted sospecha de TEP."
     },
     {
       "pregunta": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:",
@@ -22213,7 +22303,8 @@
       "pagina": 26,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "De acuerdo con el perfil geográfico, y contexto clínico de nuestra paciente que tipo de AIT pensaría?",
@@ -22231,7 +22322,8 @@
       "pagina": 27,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "En este paciente se le debió haber solicitado el consentimiento informado para realizar el procedimiento quirúrgico cuales son las características que debe incluir",
@@ -23004,7 +23096,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Que tipo de variable es síntomas en el presente estudio",
@@ -23023,7 +23116,8 @@
       "pagina": 39,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Cual es la variable de interés",
@@ -23040,7 +23134,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Dentro de la metodología para e3l presente estudio usted realiza una hipótesis. Error tipo I",
@@ -23059,7 +23154,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Mencione la prueba que utilizaría para determinar la distribució0n de datos siendo que su población es mayor a 30",
@@ -23078,7 +23174,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Que nivel de confianza utilizaría en el estudio",
@@ -23097,7 +23194,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Una de las variables de estudio cuantifica un elemento de su población por lo tanto se trata de una variable:",
@@ -23116,7 +23214,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Usted determina un subconjunto representativo de la población es decir:",
@@ -23135,7 +23234,8 @@
       "pagina": 40,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "La tasa de falsos positivos es:",

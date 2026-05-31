@@ -122,11 +122,14 @@ def main():
         st.caption(f"Archivos fuente: **{meta['total_archivos']}**")
         preg_con_caso = sum(1 for p in preguntas if p.get("caso_clinico") and p["caso_clinico"].strip() != p["pregunta"].strip())
         st.caption(f"Activas (con caso): **{preg_con_caso}**")
+        if "casos_examen" in st.session_state:
+            total_q = sum(len(g) for g in st.session_state.casos_examen)
+            st.caption(f"Examen actual: **{len(st.session_state.casos_examen)}** casos, **{total_q}** preguntas")
 
         num_q = st.slider("Preguntas por examen", 5, 50, 10, 5)
 
         if st.button("🔄 Nuevo examen", use_container_width=True, type="primary"):
-            for k in ["preguntas_examen", "idx", "respuestas", "terminado"]:
+            for k in ["casos_examen", "caso_idx", "respuestas", "terminado"]:
                 st.session_state.pop(k, None)
             for k in list(st.session_state.keys()):
                 if k.startswith("q_answered_"):
@@ -146,18 +149,42 @@ def main():
 
     # ─── Main content ───
 
-    if "preguntas_examen" not in st.session_state:
-        # Solo preguntas que tienen caso clínico vinculado
+    if "casos_examen" not in st.session_state:
+        # Group questions by their caso_clinico to keep serial cases together
         real_preguntas = [p for p in preguntas
                           if p.get("caso_clinico", "")
                           and p["caso_clinico"].strip() != p["pregunta"].strip()]
         if not real_preguntas:
-            # Fallback: mostrar todo si el campo caso_clinico no está disponible
             st.info("Banco sin casos clínicos mapeados. Mostrando todas las preguntas.")
             real_preguntas = preguntas
-        selected = random.sample(real_preguntas, min(num_q, len(real_preguntas)))
-        st.session_state.preguntas_examen = selected
-        st.session_state.idx = 0
+
+        # Group: questions sharing the same caso_clinico text form a case group
+        case_groups = {}
+        standalone = []
+        for q in real_preguntas:
+            key = (q.get("caso_clinico", "") or "").strip()
+            if key and key != q.get("pregunta", "").strip():
+                case_groups.setdefault(key, []).append(q)
+            else:
+                standalone.append(q)
+
+        all_groups = list(case_groups.values()) + [[q] for q in standalone]
+
+        # Sample case groups (not individual questions) to reach ~num_q questions
+        random.shuffle(all_groups)
+        selected_groups = []
+        total_qs = 0
+        for g in all_groups:
+            if total_qs + len(g) <= num_q * 1.5 or not selected_groups:
+                selected_groups.append(g)
+                total_qs += len(g)
+            if total_qs >= num_q:
+                break
+        if not selected_groups:
+            selected_groups = all_groups[:max(1, num_q // 3)]
+
+        st.session_state.casos_examen = selected_groups
+        st.session_state.caso_idx = 0
         st.session_state.respuestas = []
         st.session_state.terminado = False
 
@@ -165,104 +192,120 @@ def main():
         mostrar_resultado()
         return
 
-    idx = st.session_state.idx
-    preg = st.session_state.preguntas_examen
-    total = len(preg)
+    casos = st.session_state.casos_examen
+    caso_idx = st.session_state.caso_idx
 
-    if idx >= total:
+    if caso_idx >= len(casos):
         st.session_state.terminado = True
         mostrar_resultado()
         return
 
-    q = preg[idx]
-    question_state = st.session_state.get(f"q_answered_{idx}")
+    caso_actual = casos[caso_idx]
+    caso_texto = caso_actual[0].get("caso_clinico", "") if len(caso_actual) > 0 else ""
+    total_casos = len(casos)
 
-    progreso = (idx) / total
-    st.progress(progreso, text=f"Pregunta {idx + 1} de {total}")
+    # ─── Caso clínico header (shown once per case) ───
+    progreso_caso = caso_idx / total_casos
+    total_q_in_exam = sum(len(g) for g in casos)
+    preg_start_idx = sum(len(g) for g in casos[:caso_idx])
+    st.progress(progreso_caso, text=f"Caso {caso_idx + 1} de {total_casos} ({total_q_in_exam} preguntas en total)")
 
-    caso = q.get("caso_clinico", "")
-    if caso and caso.strip() != q["pregunta"].strip():
+    if caso_texto and caso_texto.strip() != caso_actual[0].get("pregunta", "").strip():
         st.markdown(
             f'<div style="background:#e8f4f8;padding:1rem;border-radius:0.5rem;'
             f'border-left:4px solid #2196F3;margin:0.5rem 0">'
-            f'<strong>📋 Caso clínico</strong><br>{caso}</div>',
+            f'<strong>📋 Caso clínico</strong><br>{caso_texto}</div>',
             unsafe_allow_html=True,
         )
 
-    st.markdown(f"### Pregunta {idx + 1}")
-    st.markdown(q["pregunta"])
+    # ─── Render all sub-questions of this case ───
+    all_answered = True
+    for sq_idx, q in enumerate(caso_actual):
+        global_q_idx = preg_start_idx + sq_idx
+        q_state_key = f"q_answered_{global_q_idx}"
+        q_answered = st.session_state.get(q_state_key, False)
 
-    opciones = q["opciones"]
-    opts_labels = [f"{k}) {v}" for k, v in opciones.items()]
-    opts_keys = list(opciones.keys())
+        st.markdown(f"### Pregunta {global_q_idx + 1}")
+        st.markdown(q["pregunta"])
 
-    # ─── Radio + Responder — always visible ───
+        opciones = q["opciones"]
+        opts_labels = [f"{k}) {v}" for k, v in opciones.items()]
+        opts_keys = list(opciones.keys())
 
-    selected_key = st.radio(
-        "Selecciona tu respuesta:",
-        opts_labels,
-        key=f"radio_{idx}",
-        index=None,
-    )
-
-    col1, col2, col3 = st.columns([1, 1, 1])
-    with col2:
-        responder = st.button("✅ Responder", use_container_width=True, disabled=question_state or selected_key is None)
-
-    # ─── When answered ───
-
-    if responder and selected_key is not None and not question_state:
-        letra = opts_keys[opts_labels.index(selected_key)]
-        correcta_letra = q["respuesta_correcta"]
-        es_correcta = letra in correcta_letra
-
-        # Coincidencia case-insensitive para opciones
-        opts_upper = {k.upper(): v for k, v in opciones.items()}
-        resp_correcta_txt = ", ".join(
-            f"{c}) {opts_upper.get(c.upper(), '?')}" for c in correcta_letra
+        # Radio for this sub-question
+        selected_key = st.radio(
+            "Selecciona tu respuesta:",
+            opts_labels,
+            key=f"radio_global_{global_q_idx}",
+            index=None,
+            disabled=q_answered,
         )
 
-        st.session_state.respuestas.append({
-            "pregunta_id": id(q),
-            "correcta": es_correcta,
-            "pagina": q.get("pagina", 0),
-            "fuente": q.get("fuente", ""),
-            "opcion_usuario": f"{letra}) {opciones.get(letra, opciones.get(letra.upper(), '?'))}",
-            "respuesta_correcta": resp_correcta_txt,
-            "justificacion": q.get("justificacion", ""),
-        })
-
-        save_respuesta(id(q), es_correcta, session_id)
-        st.session_state[f"q_answered_{idx}"] = True
-        question_state = True
-
-    if question_state:
-        resp = st.session_state.respuestas[-1]
-        if resp["correcta"]:
-            st.markdown(
-                f'<div class="correcta"><div class="feedback-header">✅ ¡Correcto!</div>'
-                f'{resp["respuesta_correcta"]}</div>',
-                unsafe_allow_html=True,
+        col1, col2, col3 = st.columns([1, 1, 1])
+        with col2:
+            responder = st.button(
+                "✅ Responder",
+                key=f"btn_global_{global_q_idx}",
+                use_container_width=True,
+                disabled=q_answered or selected_key is None,
             )
+
+        if responder and selected_key is not None and not q_answered:
+            letra = opts_keys[opts_labels.index(selected_key)]
+            correcta_letra = q["respuesta_correcta"]
+            es_correcta = letra in correcta_letra
+            opts_upper = {k.upper(): v for k, v in opciones.items()}
+            resp_correcta_txt = ", ".join(
+                f"{c}) {opts_upper.get(c.upper(), '?')}" for c in correcta_letra
+            )
+
+            st.session_state.respuestas.append({
+                "pregunta_id": id(q),
+                "correcta": es_correcta,
+                "pagina": q.get("pagina", 0),
+                "fuente": q.get("fuente", ""),
+                "opcion_usuario": f"{letra}) {opciones.get(letra, opciones.get(letra.upper(), '?'))}",
+                "respuesta_correcta": resp_correcta_txt,
+                "justificacion": q.get("justificacion", ""),
+            })
+            save_respuesta(id(q), es_correcta, session_id)
+            st.session_state[q_state_key] = True
+            st.rerun()
+
+        if q_answered:
+            resp = [r for r in st.session_state.respuestas if r["pregunta_id"] == id(q)]
+            if resp:
+                r = resp[-1]
+                if r["correcta"]:
+                    st.markdown(
+                        f'<div class="correcta"><div class="feedback-header">✅ ¡Correcto!</div>'
+                        f'{r["respuesta_correcta"]}</div>',
+                        unsafe_allow_html=True,
+                    )
+                else:
+                    st.markdown(
+                        f'<div class="incorrecta"><div class="feedback-header">❌ Respuesta incorrecta</div>'
+                        f'La respuesta correcta era: **{r["respuesta_correcta"]}** '
+                        f'según página **{r["pagina"]}** del archivo **{r["fuente"]}**</div>',
+                        unsafe_allow_html=True,
+                    )
+                if r.get("justificacion"):
+                    st.markdown(
+                        f'<div class="justificacion">📖 {r["justificacion"]}</div>',
+                        unsafe_allow_html=True,
+                    )
         else:
-            st.markdown(
-                f'<div class="incorrecta"><div class="feedback-header">❌ Respuesta incorrecta</div>'
-                f'La respuesta correcta era: **{resp["respuesta_correcta"]}** '
-                f'según página **{resp["pagina"]}** del archivo **{resp["fuente"]}**</div>',
-                unsafe_allow_html=True,
-            )
+            all_answered = False
 
-        if resp.get("justificacion"):
-            st.markdown(
-                f'<div class="justificacion">📖 {resp["justificacion"]}</div>',
-                unsafe_allow_html=True,
-            )
+        st.divider()
 
+    # ─── Navigation between cases ───
+    if all_answered:
         col_a, col_b, col_c = st.columns([1, 1, 1])
         with col_b:
-            if idx + 1 < total:
-                if st.button("⏭️ Siguiente pregunta", use_container_width=True, type="primary"):
-                    st.session_state.idx += 1
+            if caso_idx + 1 < total_casos:
+                if st.button("⏭️ Siguiente caso", use_container_width=True, type="primary"):
+                    st.session_state.caso_idx += 1
                     st.rerun()
             else:
                 if st.button("📊 Ver resultados", use_container_width=True, type="primary"):
@@ -308,7 +351,7 @@ def mostrar_resultado():
 
     st.divider()
     if st.button("🔄 Tomar otro examen", use_container_width=True, type="primary"):
-        for k in ["preguntas_examen", "idx", "respuestas", "terminado"]:
+        for k in ["casos_examen", "caso_idx", "respuestas", "terminado"]:
             st.session_state.pop(k, None)
         for k in list(st.session_state.keys()):
             if k.startswith("q_answered_"):
