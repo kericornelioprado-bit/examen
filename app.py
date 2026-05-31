@@ -126,6 +126,9 @@ def main():
         if st.button("🔄 Nuevo examen", use_container_width=True, type="primary"):
             for k in ["preguntas_examen", "idx", "respuestas", "terminado"]:
                 st.session_state.pop(k, None)
+            for k in list(st.session_state.keys()):
+                if k.startswith("q_answered_"):
+                    del st.session_state[k]
             st.rerun()
 
         st.divider()
@@ -166,6 +169,7 @@ def main():
         return
 
     q = preg[idx]
+    question_state = st.session_state.get(f"q_answered_{idx}")
 
     progreso = (idx) / total
     st.progress(progreso, text=f"Pregunta {idx + 1} de {total}")
@@ -186,6 +190,8 @@ def main():
     opts_labels = [f"{k}) {v}" for k, v in opciones.items()]
     opts_keys = list(opciones.keys())
 
+    # ─── Radio + Responder — always visible ───
+
     selected_key = st.radio(
         "Selecciona tu respuesta:",
         opts_labels,
@@ -195,9 +201,11 @@ def main():
 
     col1, col2, col3 = st.columns([1, 1, 1])
     with col2:
-        responder = st.button("✅ Responder", use_container_width=True, disabled=selected_key is None)
+        responder = st.button("✅ Responder", use_container_width=True, disabled=question_state or selected_key is None)
 
-    if responder and selected_key is not None:
+    # ─── When answered ───
+
+    if responder and selected_key is not None and not question_state:
         letra = opts_keys[opts_labels.index(selected_key)]
         correcta_letra = q["respuesta_correcta"]
         es_correcta = letra in correcta_letra
@@ -213,38 +221,44 @@ def main():
         })
 
         save_respuesta(id(q), es_correcta, session_id)
+        st.session_state[f"q_answered_{idx}"] = True
+        question_state = True
 
-        if es_correcta:
+    if question_state:
+        resp = st.session_state.respuestas[-1]
+        if resp["correcta"]:
             st.markdown(
                 f'<div class="correcta"><div class="feedback-header">✅ ¡Correcto!</div>'
-                f'{", ".join(f"{c}) {opciones[c]}" for c in correcta_letra)}</div>',
+                f'{resp["respuesta_correcta"]}</div>',
                 unsafe_allow_html=True,
             )
         else:
             st.markdown(
                 f'<div class="incorrecta"><div class="feedback-header">❌ Respuesta incorrecta</div>'
-                f'La respuesta correcta era: **{", ".join(f"{c}) {opciones[c]}" for c in correcta_letra)}** '
-                f'según página **{q.get("pagina", 0)}** del archivo **{q.get("fuente", "")}**</div>',
+                f'La respuesta correcta era: **{resp["respuesta_correcta"]}** '
+                f'según página **{resp["pagina"]}** del archivo **{resp["fuente"]}**</div>',
                 unsafe_allow_html=True,
             )
 
-        if q.get("justificacion"):
+        if resp.get("justificacion"):
             st.markdown(
-                f'<div class="justificacion">📖 {q["justificacion"]}</div>',
+                f'<div class="justificacion">📖 {resp["justificacion"]}</div>',
                 unsafe_allow_html=True,
             )
 
-        if idx + 1 < total:
-            if st.button("⏭️ Siguiente pregunta", use_container_width=True, type="primary"):
-                st.session_state.idx += 1
-                st.rerun()
-        else:
-            if st.button("📊 Ver resultados", use_container_width=True, type="primary"):
-                st.session_state.terminado = True
-                st.rerun()
-
-    elif idx > 0:
-        st.caption("Usa el botón 'Responder' para confirmar tu selección.")
+        col_a, col_b, col_c = st.columns([1, 1, 1])
+        with col_b:
+            if idx + 1 < total:
+                if st.button("⏭️ Siguiente pregunta", use_container_width=True, type="primary"):
+                    st.session_state.idx += 1
+                    st.rerun()
+            else:
+                if st.button("📊 Ver resultados", use_container_width=True, type="primary"):
+                    for k in list(st.session_state.keys()):
+                        if k.startswith("q_answered_"):
+                            del st.session_state[k]
+                    st.session_state.terminado = True
+                    st.rerun()
 
 
 def mostrar_resultado():
@@ -284,6 +298,9 @@ def mostrar_resultado():
     if st.button("🔄 Tomar otro examen", use_container_width=True, type="primary"):
         for k in ["preguntas_examen", "idx", "respuestas", "terminado"]:
             st.session_state.pop(k, None)
+        for k in list(st.session_state.keys()):
+            if k.startswith("q_answered_"):
+                del st.session_state[k]
         st.rerun()
 
 
