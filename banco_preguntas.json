@@ -9352,7 +9352,10 @@
     {
       "pregunta": "CASO CLÍNICO: Hombre 55 años, cefalea opresiva 8/10 holocraneana, dolor de nuca fiebre 39, niega crónico degenerativos, EF fascies algica, reflejo motos y consensual conservado, rigidez de nuca, signo de kernig y brudzinski no presentes, fondo de ojo papiledema, ruidos cardiacos sin soplos, murmullo vesicular sin alteraciones, extremidades eutróficas, 4/5 en las 4 extremidades, REMS ++/++++. De acuerdo con la sospecha diagnostica que enunciado es falso",
       "opciones": {
-        "A": "El signo de brudzinski es positivo cuando la extensión pasiva de la rodilla provoca resistencia"
+        "A": "El signo de brudzinski es positivo cuando la extensión pasiva de la rodilla provoca resistencia",
+        "B": "El signo de kernig se explora con el paciente en decúbito dorsal, flexionando el muslo sobre la pelvis y extendiendo la pierna",
+        "C": "El signo de brudzinski se explora flexionando el cuello del paciente, lo que provoca flexión involuntaria de caderas y rodillas",
+        "D": "La rigidez de nuca es un signo meníngeo que se presenta por irritación de las meninges"
       },
       "tipo": "multiple_choice",
       "respuesta_correcta": [
