@@ -120,6 +120,8 @@ def main():
         st.title("🏥 Mini Examen")
         st.caption(f"Banco: **{meta['total_preguntas']}** preguntas")
         st.caption(f"Archivos fuente: **{meta['total_archivos']}**")
+        preg_con_caso = sum(1 for p in preguntas if p.get("caso_clinico") and p["caso_clinico"].strip() != p["pregunta"].strip())
+        st.caption(f"Con caso clínico: **{preg_con_caso}**")
 
         num_q = st.slider("Preguntas por examen", 5, 50, 10, 5)
 
@@ -210,13 +212,19 @@ def main():
         correcta_letra = q["respuesta_correcta"]
         es_correcta = letra in correcta_letra
 
+        # Coincidencia case-insensitive para opciones
+        opts_upper = {k.upper(): v for k, v in opciones.items()}
+        resp_correcta_txt = ", ".join(
+            f"{c}) {opts_upper.get(c.upper(), '?')}" for c in correcta_letra
+        )
+
         st.session_state.respuestas.append({
             "pregunta_id": id(q),
             "correcta": es_correcta,
             "pagina": q.get("pagina", 0),
             "fuente": q.get("fuente", ""),
-            "opcion_usuario": f"{letra}) {opciones[letra]}",
-            "respuesta_correcta": ", ".join(f"{c}) {opciones[c]}" for c in correcta_letra),
+            "opcion_usuario": f"{letra}) {opciones.get(letra, opciones.get(letra.upper(), '?'))}",
+            "respuesta_correcta": resp_correcta_txt,
             "justificacion": q.get("justificacion", ""),
         })
 
