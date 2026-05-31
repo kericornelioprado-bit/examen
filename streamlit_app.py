@@ -142,7 +142,11 @@ def main():
     # ─── Main content ───
 
     if "preguntas_examen" not in st.session_state:
-        selected = random.sample(preguntas, min(num_q, len(preguntas)))
+        # Filtrar entradas que son solo casos sin pregunta real
+        real_preguntas = [p for p in preguntas
+                          if not (p.get("caso_clinico", "")
+                                  and p["caso_clinico"].strip() == p["pregunta"].strip())]
+        selected = random.sample(real_preguntas, min(num_q, len(real_preguntas)))
         st.session_state.preguntas_examen = selected
         st.session_state.idx = 0
         st.session_state.respuestas = []
@@ -165,6 +169,15 @@ def main():
 
     progreso = (idx) / total
     st.progress(progreso, text=f"Pregunta {idx + 1} de {total}")
+
+    caso = q.get("caso_clinico", "")
+    if caso and caso.strip() != q["pregunta"].strip():
+        st.markdown(
+            f'<div style="background:#e8f4f8;padding:1rem;border-radius:0.5rem;'
+            f'border-left:4px solid #2196F3;margin:0.5rem 0">'
+            f'<strong>📋 Caso clínico</strong><br>{caso}</div>',
+            unsafe_allow_html=True,
+        )
 
     st.markdown(f"### Pregunta {idx + 1}")
     st.markdown(q["pregunta"])
