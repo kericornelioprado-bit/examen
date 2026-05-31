@@ -1,0 +1,12 @@
+.env
+tmp/
+processed/
+*.db
+__pycache__/
+review_queue.json
+pipeline.py
+config.py
+schemas.py
+*.docx
+*.pdf
+examenes/
