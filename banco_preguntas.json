@@ -4098,7 +4098,8 @@
       "pagina": 74,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Usted se encuentra en el área de urgencias y recibe a un paciente de 27 años que ha presentado un episodio de crisis convulsiva, al interrogatorio su madre le comenta que ha estado con presencia de fiebre y que es la primera vez que presenta una crisis convulsiva, le describe un episodio de corta duración aproximadamente con recuperación posterior, usted recibe al paciente alerta, se le realiza una glucometría capilar la cual se encuentra en 80, con SaO2 99%, TA 120/80, GC 90, T 38°, FR 18, cuando se encuentra realizando la exploración presenta un nuevo episodio de crisis convulsivas la cual es motora tónico clónica."
     },
     {
       "pregunta": "¿Cómo clasificaría este desorden hipertensivo?",
@@ -4808,7 +4809,8 @@
       "pagina": 7,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 65 años que inició hace 1 semana con cefalea, orina espumosa con tinte hemático intermitente y edema de pies, por lo que acudió a su clínica donde reportan TA 150/95 FC 90/min, FR 18/min Temp 36.5, el EGO reportó orina tinte hemático, dens 1.010, pH 5,5, proteínas 100 mg/dL, eritrocitos moderados, cilindros eritrocitarios +, leucocitos 20-30 por campo, células epiteliales tubulares presentes, egresado con manejo para infección de vías urinarias. El paciente acudió a urgencias 1 semana después por hematuria persistente y aumento del edema hasta rodillas la TA fue 150/90 se tomaron laboratorios: Hb 11.5gr/dL Hto 35% leucocitos 9000, plaquetas 300000, BUN 12, Cr 1.1. Urea 32, glucosa 80. EGO orina con sangre ++ , eritrocitos incontables, proteínas 300 mg/dL, leucocitos 50 por campo. La cuantificación de proteínas en orina fue de 1200 mg en 24 hr y la albúmina sérica de 3.2gr. Durante su estancia hospitalaria se le realizó biopsia renal que reporta: engrosamiento global y difuso de la pared de los capilares glomerulares, e inmunofluorescencia con depósitos granulares difusos de IgG y C3."
     },
     {
       "pregunta": "¿Cuál es la etiología del diagnóstico anterior?",
@@ -4827,7 +4829,8 @@
       "pagina": 7,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 65 años que inició hace 1 semana con cefalea, orina espumosa con tinte hemático intermitente y edema de pies, por lo que acudió a su clínica donde reportan TA 150/95 FC 90/min, FR 18/min Temp 36.5, el EGO reportó orina tinte hemático, dens 1.010, pH 5,5, proteínas 100 mg/dL, eritrocitos moderados, cilindros eritrocitarios +, leucocitos 20-30 por campo, células epiteliales tubulares presentes, egresado con manejo para infección de vías urinarias. El paciente acudió a urgencias 1 semana después por hematuria persistente y aumento del edema hasta rodillas la TA fue 150/90 se tomaron laboratorios: Hb 11.5gr/dL Hto 35% leucocitos 9000, plaquetas 300000, BUN 12, Cr 1.1. Urea 32, glucosa 80. EGO orina con sangre ++ , eritrocitos incontables, proteínas 300 mg/dL, leucocitos 50 por campo. La cuantificación de proteínas en orina fue de 1200 mg en 24 hr y la albúmina sérica de 3.2gr. Durante su estancia hospitalaria se le realizó biopsia renal que reporta: engrosamiento global y difuso de la pared de los capilares glomerulares, e inmunofluorescencia con depósitos granulares difusos de IgG y C3."
     },
     {
       "pregunta": "Si sospecharas de leucemia promielocítica aguda ¿Que alteración citogenética esperas encontrar?",
@@ -4922,7 +4925,8 @@
       "pagina": 11,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años de edad quien presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaquico, la exploración física con Sat 02 93%, eritema generalizado, sin esplenomegalia. Citometría hemática: Hb 17.3 plaquetas 450 000 y leucocitos 9 500 con neutrófilos 6 500, linfocitos 2:000 y monocitos 300"
     },
     {
       "pregunta": "Junto con esquema empírico antimicrobiano se inició previamente la aplicación de dexametasona. La tinción gran reporta diplococos Gram-, respecto al uso de esteroide:",
@@ -4941,7 +4945,8 @@
       "pagina": 11,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años de edad quien presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaquico, la exploración física con Sat 02 93%, eritema generalizado, sin esplenomegalia. Citometría hemática: Hb 17.3 plaquetas 450 000 y leucocitos 9 500 con neutrófilos 6 500, linfocitos 2:000 y monocitos 300"
     },
     {
       "pregunta": "Masculino de 18 años, sin antecedentes de relevancia acude a consulta por fatiga, astenia y adinamia, dolor faríngeo de 2 semanas de evolución, a su valoración con fiebre de 39°C, a la exploración destaca adenopatías cervicales, inguinales, retroauriculares y axilares, además petequias en paladar y esplenomegalia. En laboratorios con leucocitosis 25 mil, 60% linfocitos, 12% linfocitos atípicos, perfil hepático con elevación de ast y alt elevación de dhl y resto normal. Con los datos disponibles usted sospecha de:",
@@ -5699,7 +5704,8 @@
       "pagina": 24,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "Habiendo iniciado ya la anticoagulación ¿Cuál es el tratamiento de primera instancia en este paciente?",
@@ -5718,7 +5724,8 @@
       "pagina": 24,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Hombre de 50 años. Acude al servicio de urgencias. Por odinofagia, tos seca y fiebre. Refiere que desde hace 24 h tiene disnea de pequeños esfuerzos. Refiere hipertensión arterial controlada. Signos vitales con TA 100/60 mmHg y una segunda de 90/50 mmHg, con frecuencia cardiaca de 110, frecuencia respiratoria de 35, Saturación de O2 78%, Temperatura de 39.6°C, Glucosa capilar 190 mg/dL. El paciente inicialmente se colocó en pronación, luego de 4 h, se reporta TA DE 80/50, frecuencia cardiaca de 120, Frecuencia respiratoria de 38, saturación de 77%, resto igual. Reportan lactato de 6 mmol/L."
     },
     {
       "pregunta": "En una paciente con preeclampsia ¿a partir de qué cifra de ta está indicada la terapia antihipertensiva?",
@@ -6053,7 +6060,8 @@
       "pagina": 31,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente masculino de 58 años de edad con antecedente de hipertensión arterial de 20 años de dx con mal apego al tratamiento y mal control de la misma, diabetes mellitus controlada con H.O, MC 34, que ingresa al servicio de urgencias por dificultad respiratoria, asociada a sensación de opresión precordial irradiado a brazo izquierdo. En el servicio de urgencias se detecta TA de 230/130 mmHg FC de 108 en ambos brazos, ligeramente diaforético, con rubicundez facial."
     },
     {
       "pregunta": "¿Cuál es la causa más frecuente para desarrollar esta patología?\n4. ¿En esta paciente cuál es la prueba para confirmación diagnóstica?",
@@ -6072,7 +6080,8 @@
       "pagina": 31,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente masculino de 58 años de edad con antecedente de hipertensión arterial de 20 años de dx con mal apego al tratamiento y mal control de la misma, diabetes mellitus controlada con H.O, MC 34, que ingresa al servicio de urgencias por dificultad respiratoria, asociada a sensación de opresión precordial irradiado a brazo izquierdo. En el servicio de urgencias se detecta TA de 230/130 mmHg FC de 108 en ambos brazos, ligeramente diaforético, con rubicundez facial."
     },
     {
       "pregunta": "A su consulta un paciente masculino de 31 años, tiene un IMC de 31 kg/m2 SC. tiene hermano con diabetes tipo 2, en sus estudios muestra una cifra de glucosa de 105 mg/dl, ante lo cual usted pide tolerancia con 75 grs de glucosa, así como Hb glucosilada, con los siguientes resultados, glucemia basal glucemia a las 2 horas 190 mg/dl, y cifras de HbA1c (avalada por NGSP) de 6.7%. ¿Cuál es el diagnóstico más probable de acuerdo al caso anterior?",
@@ -6368,7 +6377,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "[Pregunta implícita / Contexto no proporcionado]. Las siguientes son opciones de tratamiento o manejo. Seleccione la correcta:\nHombre de 69 años cuenta con antecedente de hipertensión arterial sistémica de 19 años de diagnóstico en tratamiento previo con Losartan 50mgs cada 12 horas, se adiciono hace aproximadamente un mes Nifedipino mgs cada 12 horas, se ha referido con regular control de las cifras tensionales, así mismo hace 2 semanas se realizó una colecistectomía tras episodio de CCL, se refiere por parte de la esposa inició su padecimiento actual 2 días después de la intervención quirúrgica, con presencia de mareo, cefalea holocraneal de características tensionales, náuseas hasta llegar a producir emesis de manera intermitente y tendencia a la somnolencia el día de hoy se encuentra por familiar tirado afuera de su cama, sin responder adecuadamente a la estimul verbal, únicamente a los esfuerzos vigorosos, motivo por el cual es llevado a atención médica, donde se corrobo ya descrito dentro de sus laboratorios de ingreso Hb18,1, HTCO 55 Leucocitos 12000, plaquetas 455,000, Glucosa 600 Creatinina. 1.5, Urea 84,BUN 39 sodio 134, potasio 4,9, Cloro 105, gasometría Ph 7.37, PCO2 35, HCO3 20, Examen general de orina Densidad urinaria 1.020, Glucosa +, cetonas + Bacterias escasas, Leucocitos en sedimento: eritrocitos 2-3 Cuenta con RX de tórax sin datos patológicos."
     },
     {
       "pregunta": "¿Qué alteraciones observa en los estudios de laboratorio?",
@@ -6644,7 +6654,8 @@
       "pagina": 44,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "En las radiografías de manos presentadas por la paciente espera encontrar:",
@@ -6663,7 +6674,8 @@
       "pagina": 44,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "La terapia inicial de la paciente debe incluir:",
@@ -6682,7 +6694,8 @@
       "pagina": 44,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "Usted administró diazepam intravenoso, sin embargo posterior a repetir la dosis, no obtuvo respuesta, el paciente presenta ya 2 crisis convulsivas sin recuperación, de estos episodios han pasado ya 5 min, por lo que usted lo clasifica como:",
@@ -6700,7 +6713,8 @@
       "pagina": 45,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "¿Fármacos que administrados de forma empírica pueden ayudar a prevenir complicaciones?",
@@ -6776,7 +6790,8 @@
       "pagina": 46,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "Factores de riesgo para desarrollar delirium en esta paciente:",
@@ -6795,7 +6810,8 @@
       "pagina": 46,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "Medicamento de elección para el manejo de este paciente:",
@@ -6814,7 +6830,8 @@
       "pagina": 46,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Paciente comienza a las 36 horas después de su ingreso con fiebre 39 grados, dolor se intensifica y no cede a analgésicos. TA: 110/80 80 lpm 18 rpm. A la EF su abdomen se palpa rígido. La cuenta leucocitaria es 22 mil. Por imagen se identifica aire libre intraabdominal, así como líquido libre."
     },
     {
       "pregunta": "Mujer de 74 años la cual se encuentra hospitalizada con diagnóstico de delirium, hipertensión y enfermedad pulmonar obstructiva crónica. Hace una semana se le indicó medidas no farmacológicas para el manejo de delirium y capacitación para sus cuidadores. Actualmente con signos claros de la enfermedad. Tipo de delirium que por orden de frecuencia pudiera estar presentando la paciente:",
@@ -9179,7 +9196,8 @@
       "pagina": 11,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "CASO 8 masculino 18 años, sin antecedentes, acude por fatiga, astenia ,adinamia, dolor faríngeo de 2 semanas, fiebre 39 ef adenopatías cervicales inguinales, retroauriculares y axilares, petequias en paladar y esplenomegalia, lab leucocitosis 25mil 60% linfocitos 12% atípicos, pfh elevación de ast y alt,\nDatos clínicos sospecha de"
     },
     {
       "pregunta": "De que forma podemos disminuir el margen de error en muestra estimación del parámetro poblacional",
@@ -9770,7 +9788,8 @@
       "pagina": 37,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Qué estimador crudo de riesgo debe calcular para este estudio?",
@@ -9789,7 +9808,8 @@
       "pagina": 37,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Qué prueba estadística debemos usar para probar si existe asociación entre los niveles de triglicéridos y la presentación de MACE?",
@@ -9808,7 +9828,8 @@
       "pagina": 37,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Qué prueba estadística debemos usar para probar si existe asociación entre la diabetes y la presentación de MACE?",
@@ -9827,7 +9848,8 @@
       "pagina": 37,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "Usted desarrollará un estudio cuyo objetivo es determinar el pronóstico a 6 meses de los triglicéridos al ingreso en pacientes con infarto agudo del miocardio con elevación persistente del ST. Para ello incluirá 4 unidades de cuidados intensivos cardiovasculares (CDMX, Monterrey, Guadalajara, Veracruz). Se lograron reclutar el siguiente número de sujetos: CDMX: 280, Monterrey: 105, Guadalajara: 139, Veracruz: 70. A los 6 meses de seguimiento: no se encontraron datos de 12, 7, 6 y 6 pacientes en los respectivos hospitales. Y se determinó que el total de sujetos tuvieron al menos un evento cardiovascular adverso mayor (MACE) fue 87; en el grupo de pacientes con MACE la medición de los triglicéridos al ingreso fue 298 más/menos 21.1 y sin MACE de 153.5 más/menos 17.7 mg/dL, y el número de personas con diabetes fue 71 y 321 en los grupos con y sin MACE respectivamente.\nEl mejor diseño de investigación para llegar al objetivo es:",
@@ -9846,7 +9868,8 @@
       "pagina": 37,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso 2: La Dra Ale Buendía es médico adscrito a cardiología y analizó a un grupo de pacientes tratado de encontrar la asociación de la invasión vascular de la sustitución renal como factor de riesgo de endocarditis. Encontró un total de 38 sujetos con endocarditis los mismos que comparó con 76 pacientes sin endocarditis que fueron asignados en relación 2:1 basados en la edad y sexo. De esos 76 pacientes, 19 tuvieron antecedente de invasión vascular por hemodiálisis y de los 38 con endocarditis 31 tuvieron antecedente de invasión vascular. Cuál es la medida de riesgo crudo que debe calcular para este estudio"
     },
     {
       "pregunta": "En el presente estudio, desea formular estimaciones y comprobar hipótesis sobre la lactancia exclusiva y mixta, por lo cual se apoya de:",
@@ -12076,7 +12099,8 @@
       "pagina": 9,
       "confidence": 0.9,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 42 años, con antecedentes de diabetes mellitus tipo 2 de 15 años de diagnóstico, en tratamiento con metformina 850 mg vía oral cada 12 horas, hipertensión arterial de 5 años de diagnóstico en tratamiento con losartan 50 mg vía oral cada 12 horas. Acude a consulta externa de nefrología, presenta edema de extremidades ++++, TA 130/90 mmHg, FC 70 latidos por minuto, FR 18 rpm, temperatura 36.5 °C Sat O2 94%, IMC 28 Kg/m2. Laboratorios con los que acude a consulta: hb. 8gr/dl, creatinina 6 mg/dl, Urea 180mg/dl, K 5mmol/L, proteínas en orina de 24 horas reporta 2 gramos."
     },
     {
       "pregunta": "¿Qué diagnóstico sospecha y qué prueba realizaría?",
@@ -12154,7 +12178,8 @@
       "pagina": 13,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Mujer de 38 años de edad sin antecedentes crónicos conocidos. Inicia su padecimiento actual hace 2 semanas con incremento de volumen, de miembro pélvicos hasta las rodillas, indoloro y sin cambios de coloración. Niega disnea, tos y es capaz de realizar sus actividades con normalidad. En la exploración física: Signos vitales: TA 120/60, FC 75 lpm, FR 18 rpm, temperatura 36.5 °C se comprueba edema bilateral con fóvea. Paraclínicos: Hb 14.5 gr/dl, Plaquetas 196,000, leucocitos 8,600, creatinina 1 mg/dl, glucosa 75 mg, sodio 138 mEq/l, potasio 4.8 mEq/l, Cloro 105 mEq/1, Triglicéridos 305 mg/dl, Albúmina 2.0 gr/dl. EGO: ph 6, Eritrocitos O por campo, Leucocitos 2 por campo, Proteínas 300 mg/dl."
     },
     {
       "pregunta": "¿Qué tratamiento utilizará de acuerdo al diagnóstico del paciente?",
@@ -12173,7 +12198,8 @@
       "pagina": 13,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Mujer de 38 años de edad sin antecedentes crónicos conocidos. Inicia su padecimiento actual hace 2 semanas con incremento de volumen, de miembro pélvicos hasta las rodillas, indoloro y sin cambios de coloración. Niega disnea, tos y es capaz de realizar sus actividades con normalidad. En la exploración física: Signos vitales: TA 120/60, FC 75 lpm, FR 18 rpm, temperatura 36.5 °C se comprueba edema bilateral con fóvea. Paraclínicos: Hb 14.5 gr/dl, Plaquetas 196,000, leucocitos 8,600, creatinina 1 mg/dl, glucosa 75 mg, sodio 138 mEq/l, potasio 4.8 mEq/l, Cloro 105 mEq/1, Triglicéridos 305 mg/dl, Albúmina 2.0 gr/dl. EGO: ph 6, Eritrocitos O por campo, Leucocitos 2 por campo, Proteínas 300 mg/dl."
     },
     {
       "pregunta": "¿cuál sería su sospecha diagnóstica?",
@@ -13214,7 +13240,8 @@
       "pagina": 26,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "4. ¿En qué artículo de este ordenamiento se clasifica a las investigaciones de acuerdo con la probabilidad de que el sujeto de investigación sufra algún daño como consecuencia inmediata o tardía del estudio?",
@@ -13233,7 +13260,8 @@
       "pagina": 26,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Lea el siguiente artículo y responda las preguntas que se le plantean: Título Impacto de los factores de riesgo cardiovascular en la población extremeña: aportación de la cohorte HERMEX para una estrategia preventiva Autores Javier Félix-Redondo, Luis Lozano Mera, Paula Alvarez-Palacios Arrighi, María Grau Magana, Jose María Ramírez-Romero, Daniel Fernández-Bergés Revista Atención Primaria Año 2020; 52(1)3-13. Resumen Objetivo: Determinar la fracción atribuible poblacional (FAP) de los factores de riesgo (FR) clásicos para la aparición de la enfermedad cardiovascular en una cohorte poblacional de Extremadura, a fin de recomendar intervenciones preventivas prioritarias. Métodos: Diseño: estudio de cohortes. Participantes: Dos mil ochocientos treinta y tres individuos, de 25 a 79 años, seleccionados aleatoriamente e incluidos entre 2007 y 2009. Se registraron antecedentes y se midieron parámetros clínicos, siendo seguidos hasta el 31 de diciembre de 2015. Mediciones: Variables explicativas: edad, sexo, obesidad, tabaquismo, hipertensión arterial (HTA), diabetes mellitus (DM) e hipercolesterolemia. Variable resultado: Primer evento de la variable combinada de infarto de miocardio, angina de pecho, ictus, isquemia de miembros inferiores y muerte cardiovascular. Se calcularon las hazard ratio mediante regresión de Cox, totalmente ajustadas y las FAP mediante la fórmula de Levin.\nDe acuerdo a los datos aportados en el resumen determine las características del estudio:"
     },
     {
       "pregunta": "3. Se refieren a magnitudes o cantidades y se expresan mediante números formulas o algoritmos numéricos.",
@@ -13751,7 +13779,8 @@
       "pagina": 41,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 65 años, fumador activo de 26 paquetes año, etilismo activo 40 gramos de alcohol diario, diabetes mellitus 2 en tratamiento con metformina e insulina. Es llevado a valoración por presentar desde hace 4 días cefalea y fiebre de hasta 40° C, agravada el día de hoy con somnolencia. A la exploración con ECG de 13, se encuentra rigidez de cuello, usted sospecha de meningitis.\nEn cuanto a la punción lumbar de este paciente:"
     },
     {
       "pregunta": "¿Cuál es la carga viral a partir de la cual se considera mal pronóstico al momento del diagnóstico de VIH?",
@@ -14325,7 +14354,8 @@
       "pagina": 51,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Caso seriado 15\nFemenino de 62 años, hipertensa y diabética tipo 2 en tratamiento con clortalidona y metformina, el cual suspende por malestar generalizado. Llega en ambulancia a urgencias por alteraciones en su estado de conciencia. Inició tres días previos con fatiga y dolor en el flanco derecho, se agregó náuseas, vómito y reducción de la ingesta oral. Su familiar refiere que se acostó temprano la noche anterior y que no podía despertar por la mañana. EF: 60/40 mmHg, FC 130 lpm, FR 36 rpm, T 39.7° C, Sat O2 89% con aire ambiente. Peso corporal 64 kg. Respuesta mínima al dolor. Uresis mínima y orina se observa espera y turbia. Lab: sodio 148 mEq/L, potasio 5.2 mEq/L, cloro 118 mEq/L, bicarbonato 10 mEq/L, BUN 68 mg/dl, Cre 3.6 mg/dl, glucosa 532 mg/dl, pH 6.9, PCO2 36, PO2 59, Hb 9.4, HCT 28.5%, leucocitos 16 700 cel/mm3, TP 15.4 seg, TPT 40.2 seg\n\nEn los hemocultivos se desarrollan bacilos gramnegativos a las seis horas,"
     },
     {
       "pregunta": "4. Los pacientes tratados con quimioterapia por una malignidad hematológica comúnmente como efecto secundario presentan leucopenia, especialmente neutropenia por supresión de la médula ósea, ¿Cuándo es más frecuente que se presente el nadir por quimioterapia?",
@@ -21755,7 +21785,8 @@
       "pagina": 9,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Femenino de 26 años con antecedente de hipotiroidismo en tratamiento con levotiroxina 100mcg al día, es enviada a consulta externa por este antecedente y encontrarse en sus primeras 5 semanas de gestación.\nCual es la acción en cuanto el tratamiento con levotiroxina en este paciente"
     },
     {
       "pregunta": "Medicamentos contraindicados en esta patología:",
@@ -21985,7 +22016,8 @@
       "pagina": 18,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "58.- Femenino de 35 años con historia de trombosis venosa posterior a una cirugía de rodilla por causa traumática hace 8 años, uso de mesalazina por enfermedad inflamatoria intestinal y uso crónico de anticonceptivos orales a base de estrógenos y progestágeno. Acude a urgencias por disnea súbita y dolor torácico, refiere desde hace una semana ha presentado dolor y aumento de volumen en pierna derecha. A su ingreso con TA 80/50, FR 34, FC 128, Temp 35.7, saturación de oxígeno de 79% al aire ambiente. Usted sospecha de TEP."
     },
     {
       "pregunta": "3. Las pruebas estadísticas se diseñan para contestar la pregunta de si se ha de rechazar la hipótesis nula. El matriz de cada hipótesis nula cambia ligeramente según la aplicación, pero en forma general afirma que la distancia observada en los datos entre el estadístico y su valor esperado se debe a fluctuaciones aleatorias. Responda las siguientes interrogantes: Prueba estadística que mide la fuerza de una asociación cuando una variable ayuda a explicar o a predecir otra. Sus ecuaciones se modelan en busca de la ecuación algebraica de una recta, \"y = bx + a\".",
@@ -22101,7 +22133,8 @@
       "pagina": 25,
       "confidence": 0.98,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "Su presencia se considera una causa de microangiopatía trombótica en los pacientes con nefropatía lúpica",
@@ -22120,7 +22153,8 @@
       "pagina": 25,
       "confidence": 0.98,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "Tiempo aproximado en el que se puede proponer trasplante renal, en la falla renal por Lupus eritematoso sistémico",
@@ -22139,7 +22173,8 @@
       "pagina": 25,
       "confidence": 0.98,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "Usted considera el esquema EuroLupus como terapia de inducción el cual consiste:",
@@ -22158,7 +22193,8 @@
       "pagina": 25,
       "confidence": 0.98,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "T3 normal. Calcitonina aumentada. El ultrasonido tiroideo mostro lesión hiperecogénica de contenido quístico de 1.5cm con bordes bien definidos, con múltiples microcalcificaciones, sin vascularidad.\n¿Cuál es el diagnostico?",
@@ -22214,7 +22250,8 @@
       "pagina": 27,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 50 años hospitalizado por radiculopatía hace 48 hrs, se le practico RMN contrastada. Solicitan interconsulta por disnea y nauseas, mucosa oral seca, murmullo vesicular con adecuada entrada y salida de aire, cardiaco rítmico, abdomen asignologico. Edema de extremidades y tronco. Sus laboratorios con HB de 14.5 mg/dl. Leucos 9000, Plaqueta 350000, glucosa 115, cr 2.1, Urea 98, Na 146, K 5.6, EGO: Con orina amarillo ámbar. PH 5, Densidad 1.010, Leucos 5 x Campo. Eritrocitos 0-1 xc. Nitritos Negativos, levaduras y bacterias ausentes.\nCuál es el diagnóstico:"
     },
     {
       "pregunta": "¿Cómo esperaría encontrar el perfil tiroideo?",
@@ -22930,7 +22967,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Torres-Rosales J et al, realizaron un estudio transversal con el objetivo de explorar la asociación entre el óxido nítrico en plasma y la presencia de deterioro cognitivo en pacientes con enfermedad cardiovascular dado que un grupo de investigadores de Reino Unido encontraron evidencia en modelos murinos sobre la posible participación de la disfunción endotelial como causa predisponente de demencia y deterioro cognitivo. Los resultados de los niveles de óxido nítrico fueron 1.0 (0.7 - 2.1) en sujetos sin deterioro cognitivo y 0.5 (0.3 - 1.5) en pacientes con deterioro cognitivo.\n¿Qué prueba estadística debe hacer en el análisis bivariado para comparar los niveles de óxido nítrico?",
@@ -22949,7 +22987,8 @@
       "pagina": 38,
       "confidence": 0.95,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Masculino de 55 años der edad que in presenta cefalea intermitente desde hace 2 meses. Niega consumo de tabaco a la EF con sat o2 93% eritema generalizado, sin esplenomegalia, citometría hemática: hb 20, plq 450 mil, leucos 9500, con neutrófilos 6500 linfos 2000, monos 3300.\nCuál es el valor de corte de hemoglobina para poliglobulia en un paciente masculino"
     },
     {
       "pregunta": "Bajo el diseño de pregunta de investigación PICO, en el presente estudio de lactancia materna la letra 'o representa:",
@@ -23756,7 +23795,8 @@
       "pagina": 20,
       "confidence": 1.0,
       "incomplete": false,
-      "verified": true
+      "verified": true,
+      "caso_clinico": "Varón de 76 años con antecedentes de diabetes tipo 2 e hipertensión arterial, es residente de un asilo de ancianos, es traído por familiares ya que les reportaron que el paciente se encontraba con desorientación y somnolencia, además de presentar 3 días con fiebre, nauseas y diarrea, ha estado con hiporexia por lo cual disminuyó la ingesta de alimentos. Usted se encuentra en el área de atención de admisión continua, recibe al paciente estuporoso, los signos vitales con FR de 23, saturación de 98%, FC 60 LPM, TA de 100/60 mmHg, refieren que ha disminuido su volumen urinario, por lo cual usted decide tomarle nua glucosa capilar en la que se reporta un nivel de glucosa alto por lo que usted sospecha de un estado hiperosmolar."
     }
   ]
 }
