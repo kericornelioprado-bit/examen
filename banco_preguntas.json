@@ -4835,7 +4835,10 @@
     {
       "pregunta": "Si sospecharas de leucemia promielocítica aguda ¿Que alteración citogenética esperas encontrar?",
       "opciones": {
-        "A": "Translocación 15:17"
+        "A": "Translocación 15:17",
+        "B": "Translocación 8:21",
+        "C": "Translocación 16:16",
+        "D": "Translocación 11:19"
       },
       "tipo": "multiple_choice",
       "respuesta_correcta": [
@@ -7187,7 +7190,10 @@
     {
       "pregunta": "¿Cómo se demonina el hallazgo descrito como desprendimiento de la piel al tacto?",
       "opciones": {
-        "A": "Signo de nikolsky"
+        "A": "Signo de Nikolsky",
+        "B": "Signo de Asboe-Hansen",
+        "C": "Signo de Koebner",
+        "D": "Signo de Darier"
       },
       "tipo": "multiple_choice",
       "respuesta_correcta": [
@@ -8443,7 +8449,10 @@
     {
       "pregunta": "Como el estudio fue realizado en seres humanos debió de haberse solicitado \"Consentimiento Informado investigación tenga mérito científico\" y \"Que los beneficios sean mayores que los riesgos\", normas que se ve en el:",
       "opciones": {
-        "A": "Informe Belmont"
+        "A": "Informe Belmont",
+        "B": "Código de Nuremberg",
+        "C": "Declaración de Helsinki",
+        "D": "Proyecto INBIOMED II"
       },
       "tipo": "multiple_choice",
       "respuesta_correcta": [
