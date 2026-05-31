@@ -121,7 +121,7 @@ def main():
         st.caption(f"Banco: **{meta['total_preguntas']}** preguntas")
         st.caption(f"Archivos fuente: **{meta['total_archivos']}**")
         preg_con_caso = sum(1 for p in preguntas if p.get("caso_clinico") and p["caso_clinico"].strip() != p["pregunta"].strip())
-        st.caption(f"Preguntas activas: **{preg_con_caso}**")
+        st.caption(f"Activas (con caso): **{preg_con_caso}**")
 
         num_q = st.slider("Preguntas por examen", 5, 50, 10, 5)
 
@@ -152,8 +152,9 @@ def main():
                           if p.get("caso_clinico", "")
                           and p["caso_clinico"].strip() != p["pregunta"].strip()]
         if not real_preguntas:
-            st.warning("No hay preguntas con caso clínico en el banco.")
-            return
+            # Fallback: mostrar todo si el campo caso_clinico no está disponible
+            st.info("Banco sin casos clínicos mapeados. Mostrando todas las preguntas.")
+            real_preguntas = preguntas
         selected = random.sample(real_preguntas, min(num_q, len(real_preguntas)))
         st.session_state.preguntas_examen = selected
         st.session_state.idx = 0
